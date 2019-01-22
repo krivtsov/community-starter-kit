@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Test pgoject
 
 ## What it does
 
-FEATURES PLACEHOLDER
+new features add
 
 ## Getting started
 
